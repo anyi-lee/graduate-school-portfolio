@@ -2,10 +2,6 @@
 
 Computer Science student focused on **3D Visual Grounding, Vision-Language Models, Computer Vision, Embodied AI, and Robotics**.
 
-[![Portfolio](https://img.shields.io/badge/Full_Portfolio-Canva-315b7d?style=for-the-badge)](https://www.canva.com/d/NUBBIuMM1dA4Wgt)
-[![Resume](https://img.shields.io/badge/Resume-View-4b705f?style=for-the-badge)](https://www.canva.com/d/D8mJLuD3Ns5_NRw)
-[![Website](https://img.shields.io/badge/Portfolio_Website-Open-b98235?style=for-the-badge)](https://anyi-lee.github.io/graduate-school-portfolio/)
-
 這個 repository 是研究所推甄作品的統一入口。各專案仍維持獨立 repository、程式碼與 commit history；此處只整理研究方向、代表成果與導覽連結。
 
 ## Featured projects
