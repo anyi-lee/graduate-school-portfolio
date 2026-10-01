@@ -24,7 +24,7 @@ Graduation research on progressive observation and evidence-based verification f
 - ScanRefer / Nr3D evaluation and ablation analysis
 - Manuscript under review at ICS 2026
 
-Detailed research overview is available in the [full portfolio](https://www.canva.com/d/NUBBIuMM1dA4Wgt). Source code is not public while the manuscript is under review.
+Detailed research materials are available in the [graduation project report](https://anyi-lee.github.io/graduate-school-portfolio/files/graduation-project-report.pdf) and [full portfolio](https://www.canva.com/d/NUBBIuMM1dA4Wgt). Source code is not public while the manuscript is under review.
 
 ## Additional work
 
