@@ -4,6 +4,20 @@ Computer Science student focused on **3D Visual Grounding, Vision-Language Model
 
 這個 repository 是研究所推甄作品的統一入口。各專案仍維持獨立 repository、程式碼與 commit history；此處只整理研究方向、代表成果與導覽連結。
 
+## Main entrances
+
+### PROVE-3D · Graduation Project
+
+漸進式視覺證據驗證之零樣本開放詞彙三維視覺定位。
+
+[View PROVE-3D repository →](https://github.com/Min-FangChuang/PROVE-3D) · [Read graduation project report →](https://anyi-lee.github.io/graduate-school-portfolio/files/graduation-project-report.pdf)
+
+### ICS 2026 · Research Publication
+
+PROVE-3D conference paper accepted at ICS 2026 for an English oral presentation.
+
+[View PROVE-3D repository →](https://github.com/Min-FangChuang/PROVE-3D) · [Read ICS 2026 paper →](https://anyi-lee.github.io/graduate-school-portfolio/files/prove-3d-ics-paper.pdf)
+
 ## Featured projects
 
 | Area | Project | Highlights | Links |
@@ -22,9 +36,9 @@ Graduation research on progressive observation and evidence-based verification f
 - Vision-language reasoning over target attributes, reference objects and spatial relations
 - Object-level 2D-to-3D localization
 - ScanRefer / Nr3D evaluation and ablation analysis
-- Manuscript under review at ICS 2026
+- Accepted at ICS 2026 for an English oral presentation
 
-Detailed research materials are available in the [graduation project report](https://anyi-lee.github.io/graduate-school-portfolio/files/graduation-project-report.pdf) and [full portfolio](https://www.canva.com/d/NUBBIuMM1dA4Wgt). Source code is not public while the manuscript is under review.
+Detailed research materials are available in the [graduation project report](https://anyi-lee.github.io/graduate-school-portfolio/files/graduation-project-report.pdf), [ICS 2026 paper](https://anyi-lee.github.io/graduate-school-portfolio/files/prove-3d-ics-paper.pdf), and [PROVE-3D repository](https://github.com/Min-FangChuang/PROVE-3D).
 
 ## Additional work
 
