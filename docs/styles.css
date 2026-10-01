@@ -47,9 +47,8 @@ h1 span { color: var(--blue); }
 .research-grid b, .research-grid span { display: block; }
 .research-grid b { margin-bottom: 28px; color: var(--blue); }
 .research-grid span { font-weight: 700; }
-.research-links { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-bottom: 28px; }
-.research-links a { color: var(--blue); font-weight: 750; text-decoration: none; }
-.research-links a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.research-report-link { display: inline-block; margin-bottom: 28px; color: var(--blue); font-weight: 750; text-decoration: none; }
+.research-report-link:hover { text-decoration: underline; text-underline-offset: 4px; }
 .note { padding-left: 16px; border-left: 3px solid var(--ochre); font-size: 14px !important; }
 
 .projects { display: grid; gap: 18px; }
